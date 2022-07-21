@@ -1,1 +1,1 @@
-# wordle-api
+# api-wordle
